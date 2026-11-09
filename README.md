@@ -10,5 +10,6 @@ Registro de las versiones publicadas del instalador de Cmcoordinator. Cada versi
 
 | Versión | Fecha | Revit | Instalador | SHA-256 | Código |
 |---|---|---|---|---|---|
+| [2026.11.1](../../releases/tag/v2026.11.1) | 2026-11-09 | Revit 2022 a 2027 | `Cmcoordinator-2026.11.1-setup.exe` | `51369317e7a6ed8f5636034eef5db31e730bd6de6834050f3663a6a9931bbbfb` | [v2026.11.1](https://github.com/CMEDUCATIVA/cmcoordinator/releases/tag/v2026.11.1) |
 | [2026.10.2](../../releases/tag/v2026.10.2) | 2026-10-30 | Revit 2026 y 2027 | `Cmcoordinator-2026.10.2-setup.exe` | `aa9cdf85c59be998baf335dc7ce3f4f3a049516b6c9bfb3feb10b99244d785ab` | [v2026.10.2](https://github.com/CMEDUCATIVA/cmcoordinator/releases/tag/v2026.10.2) |
 | [2026.10.1](../../releases/tag/v2026.10.1) | 2026-10-17 | Revit 2026 y 2027 | `Cmcoordinator-2026.10.1-setup.exe` | `b5efc04e8a9cd78ed2bb3fc15bf59de517fb9235947f3e988a0650c502889364` | [v2026.10.1](https://github.com/CMEDUCATIVA/cmcoordinator/releases/tag/v2026.10.1) |
